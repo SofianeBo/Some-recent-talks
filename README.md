@@ -7,4 +7,3 @@ A selection of slides I used recently for some talks.
 * OKC Colloquium: General colloquium presenting my thoughts on non-supersymmetric dark-matter. Stockholm.
 * 18.09.29_GUT_Southampton: Semi-technical seminar on recent advances in grand unification model-building. Southampton.
 
-For completeness, I may upload the rest of my talks (~30) here some day ...
